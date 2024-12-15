@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -295,3 +296,4 @@
                      <a href="https://www.iqiyi.com/v_1pkjkyp9rvk.html?vfrm=pcw_album_auto&rfr=https://cn.bing.com/" target="_blank">https://www.iqiyi.com/v_1pkjkyp9rvk.html?vfrm=pcw_album_auto&rfr=https://cn.bing.com/</a>
                  </div>
         </main>
+    </body>
