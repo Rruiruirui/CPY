@@ -237,6 +237,18 @@
         </header>
 
         <main>
+         <section class="section">
+                <h2 class="section-title2">热播新剧</h2>
+                <div class="entry-info2">
+                    <span>《猎罪图鉴2》正在爱奇艺和腾讯视频热播中！！！点击下方链接即刻观看</span>
+                </div>
+                 <div class="entry-info2">
+                     <a href="https://v.qq.com/x/cover/mzc00200mnco4mw/p4100lv2bw4.html" target="_blank">https://v.qq.com/x/cover/mzc00200mnco4mw/p4100lv2bw4.html</a>
+                 </div>
+                 <div class="entry-info2">
+                     <a href="https://www.iqiyi.com/v_1pkjkyp9rvk.html?vfrm=pcw_album_auto&rfr=https://cn.bing.com/" target="_blank">https://www.iqiyi.com/v_1pkjkyp9rvk.html?vfrm=pcw_album_auto&rfr=https://cn.bing.com/</a>
+                 </div>
+                 
             <section class="section">
                 <h2 class="section-title">基本信息</h2>
                 <div class="entry">
@@ -284,16 +296,5 @@
                     </div>
                 </div>
             </section>
-             <section class="section">
-                <h2 class="section-title2">热播新剧</h2>
-                <div class="entry-info2">
-                    <span>《猎罪图鉴2》正在爱奇艺和腾讯视频热播中！！！点击下方链接即刻观看</span>
-                </div>
-                 <div class="entry-info2">
-                     <a href="https://v.qq.com/x/cover/mzc00200mnco4mw/p4100lv2bw4.html" target="_blank">https://v.qq.com/x/cover/mzc00200mnco4mw/p4100lv2bw4.html</a>
-                 </div>
-                 <div class="entry-info2">
-                     <a href="https://www.iqiyi.com/v_1pkjkyp9rvk.html?vfrm=pcw_album_auto&rfr=https://cn.bing.com/" target="_blank">https://www.iqiyi.com/v_1pkjkyp9rvk.html?vfrm=pcw_album_auto&rfr=https://cn.bing.com/</a>
-                 </div>
         </main>
     </body>
