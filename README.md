@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -147,6 +145,7 @@
                     gap: 0.25rem;
                 }
             }
+
             .blue-link {
                 color: yellow;
                 text-decoration: none; /* 移除下划线 */
@@ -238,8 +237,8 @@
         </header>
 
         <main>
+
             <section class="section">
-                   <section class="section">
                        <h2 class="section-title2">热播新剧</h2>
                        <div class="entry-info2">
                            <span>《猎罪图鉴2》正在爱奇艺和腾讯视频热播中！！！点击下方链接即刻观看</span>
@@ -295,7 +294,4 @@
                         </div>
                     </div>
                 </section>
-
-        </main>
-    </body>
-</html>
+            </main>
